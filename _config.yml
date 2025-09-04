@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yuan Wu"
-description              : "Yuan Wu's academic homepage. "
+# description              : ""
 repository               : "Rayn-Wu/Rayn-Wu.github.io"
 google_scholar_stats_use_cdn : true
 
