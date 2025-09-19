@@ -49,7 +49,7 @@ My research interest includes neural machine translation and computer vision. I 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2024.09 - present*: Ph.D. student, School of computer science and engineering, Nanjing University of Science and Technology
+- *2024.09 - present*: Ph.D. student, School of Computer Science and Engineering, Nanjing University of Science and Technology
 - *2020.09 - 2024.06*: B.Eng., School of Intelligent Manufacturing, Nanjing University of Science and Technology
 
 # 💬 Invited Talks
