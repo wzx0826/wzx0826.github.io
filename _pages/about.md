@@ -32,10 +32,21 @@ See through the Dark: Learning Illumination-affined Representations for Nighttim
 **Yuan Wu**, Zhiqiang Yan, Yigong Zhang, Xiang Li, Jian Yang
 
 [**Project**](https://github.com/yanzq95/LIAR) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Existing vision-based methods perform well on daytime benchmarks but struggle in nighttime scenarios due to limited visibility and challenging lighting conditions. For the first time, we introduce LIAR, a novel framework that learns illumination-affined representations for nighttime occupacy prediction.. 
+- Existing vision-based methods perform well on daytime benchmarks but struggle in nighttime scenarios due to limited visibility and challenging lighting conditions. We introduce LIAR, a novel framework that learns illumination-affined representations for nighttime occupacy prediction.
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2025</div><img src='projects/ICRA25_DHD' alt="sym" style="width: auto; height: auto;"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Deep Height Decoupling for Precise Vision-based 3D Occupancy Prediction
+
+**Yuan Wu**, Zhiqiang Yan, Zhengxue Wang, Xiang Li, Le Hui, Jian Yang
+
+[**Project**](https://github.com/yanzq95/DHD) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- For the first time, we introduce the explicit height prior into the vision-based 3D occupancy predition task. Owing to the novel deep height decoupling and sampling stratagy, our model achieves state-of-the-art performance even with minimal input cost.
+</div>
+</div>
 
 
 # 🎖 Honors and Awards
