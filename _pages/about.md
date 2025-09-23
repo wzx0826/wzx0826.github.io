@@ -36,7 +36,7 @@ See through the Dark: Learning Illumination-affined Representations for Nighttim
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2025</div><img src='projects/ICRA25_DHD' alt="sym" style="width: auto; height: auto;"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2025</div><img src='projects/ICRA25_DHD.png' alt="sym" style="width: auto; height: auto;"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Deep Height Decoupling for Precise Vision-based 3D Occupancy Prediction
