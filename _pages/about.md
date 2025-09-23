@@ -32,16 +32,16 @@ See through the Dark: Learning Illumination-affined Representations for Nighttim
 **Yuan Wu**, Zhiqiang Yan, Yigong Zhang, Xiang Li, Jian Yang
 
 [**Project**](https://github.com/yanzq95/LIAR) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Existing vision-based methods perform well on daytime benchmarks but struggle in nighttime scenarios due to limited visibility and challenging lighting conditions. For the first time, we introduce LIAR, a novel framework that learns illumination-affined representations for nighttime occupacy prediction.. 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.06* Outstanding Graduates of Nanjing University of Science and Technology
 
+  
 # 📖 Educations
 - *2024.09 - present*: Ph.D. student, School of Computer Science and Engineering, Nanjing University of Science and Technology
 - *2020.09 - 2024.06*: B.Eng., School of Intelligent Manufacturing, Nanjing University of Science and Technology
