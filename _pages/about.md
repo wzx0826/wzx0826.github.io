@@ -50,7 +50,7 @@ Deep Height Decoupling for Precise Vision-based 3D Occupancy Prediction
 
 
 # 🎖 Honors and Awards
-- *2024.06* Outstanding Graduates of Nanjing University of Science and Technology
+- *2024.06*: Outstanding Graduates of Nanjing University of Science and Technology
 
   
 # 📖 Educations
