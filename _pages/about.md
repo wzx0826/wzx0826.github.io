@@ -24,7 +24,7 @@ Hi there, I am Yuan Wu (吴渊). I am currently a second-year PhD candidate at [
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='projects/NIPS25_LIAR.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='projects/NIPS25_LIAR.png' alt="sym" style="width: auto; height: auto;"></div></div>
 <div class='paper-box-text' markdown="1">
 
 See through the Dark: Learning Illumination-affined Representations for Nighttime Occupancy Prediction
