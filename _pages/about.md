@@ -43,7 +43,7 @@ Deep Height Decoupling for Precise Vision-based 3D Occupancy Prediction
 
 **Yuan Wu** *, Zhiqiang Yan * &#9993;, Zhengxue Wang, Xiang Li, Le Hui, Jian Yang &#9993;
 
-[**Project**](https://github.com/yanzq95/DHD) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Paper**](https://arxiv.org/pdf/2409.07972?) [**Project**](https://github.com/yanzq95/DHD) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - For the first time, we introduce the explicit height prior into the vision-based 3D occupancy predition task. Owing to the novel deep height decoupling and sampling stratagy, our model achieves state-of-the-art performance even with minimal input cost.
 </div>
 </div>
