@@ -29,7 +29,7 @@ Hi there, I am Yuan Wu (吴渊). I am currently a second-year PhD candidate at [
 
 See through the Dark: Learning Illumination-affined Representations for Nighttime Occupancy Prediction
 
-**Yuan Wu** *, Zhiqiang Yan * &#9993;, Yigong Zhang, Xiang Li, Jian Yang &#9993;
+**Yuan Wu** *, Zhiqiang Yan *, Yigong Zhang &#9993;, Xiang Li, Jian Yang &#9993;
 
 [**Paper**](https://arxiv.org/pdf/2505.20641) [**Code**](https://github.com/yanzq95/LIAR)
 - Existing vision-based methods perform well on daytime benchmarks but struggle in nighttime scenarios due to limited visibility and challenging lighting conditions. We introduce LIAR, a novel framework that learns illumination-affined representations for nighttime occupacy prediction.
