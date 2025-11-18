@@ -23,6 +23,10 @@ Hi there, I am Yuan Wu (吴渊). I am currently a second-year Ph.D. student at [
 
 
 # 📝 Publications 
+<style>
+a { text-decoration: none; color: inherit; }
+</style>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='projects/AAAI_STDNet.png' alt="sym" style="width: auto; height: auto;"></div></div>
 <div class='paper-box-text' markdown="1">
