@@ -29,11 +29,11 @@ Hi there, I am Yuan Wu (吴渊). I am currently a second-year Ph.D. student at [
 
 SpatioTemporal Difference Network for Video Depth Super-Resolution (**Oral**)
 
-<a href="https://scholar.google.com/citations?user=VogTuQkAAAAJ&hl=zh-CN&oi=sra" style="text-decoration: none; color: inherit;">Zhengxue Wang</a>, 
+<a href="https://scholar.google.com/citations?user=VogTuQkAAAAJ&hl=zh-CN&oi=sra" style="text-decoration: none;">Zhengxue Wang</a>, 
 <strong>Yuan Wu</strong>, 
-<a href="http://implus.github.io/" style="text-decoration: none; color: inherit;">Xiang Li</a>,
-<a href="http://yanzq95.github.io/" style="text-decoration: none; color: inherit;">Zhiqiang Yan</a>  &#9993;, 
-<a href="https://scholar.google.com/citations?user=6CIDtZQAAAAJ&hl=zh-CN" style="text-decoration: none; color: inherit;">Jian Yang</a> &#9993;
+<a href="http://implus.github.io/" style="text-decoration: none;">Xiang Li</a>,
+<a href="http://yanzq95.github.io/" style="text-decoration: none;">Zhiqiang Yan</a>  &#9993;, 
+<a href="https://scholar.google.com/citations?user=6CIDtZQAAAAJ&hl=zh-CN" style="text-decoration: none;">Jian Yang</a> &#9993;
 
 [**Paper**](https://arxiv.org/pdf/2508.01259?) [**Code**](https://github.com/yanzq95/STDNet)
 - We propose STDNet, a novel framework for video depth super-resolution. STDNet introduces spatial and temporal difference mechanisms to mitigate long-tailed effects in video depth super-resolution. This design enables precise depth calibration and motion compensation, leading to state-of-the-art performance.
@@ -47,10 +47,10 @@ SpatioTemporal Difference Network for Video Depth Super-Resolution (**Oral**)
 See through the Dark: Learning Illumination-affined Representations for Nighttime Occupancy Prediction
 
 **Yuan Wu** *, 
-<a href="http://yanzq95.github.io/"style="text-decoration: none; color: inherit;">Zhiqiang Yan</a> *, 
+<a href="http://yanzq95.github.io/"style="text-decoration: none;">Zhiqiang Yan</a> *, 
 Yigong Zhang &#9993;, 
-<a href="http://implus.github.io/"style="text-decoration: none; color: inherit;">Xiang Li</a>, 
-<a href="https://scholar.google.com/citations?user=6CIDtZQAAAAJ&hl=zh-CN"style="text-decoration: none; color: inherit;">Jian Yang</a> &#9993;
+<a href="http://implus.github.io/"style="text-decoration: none; ">Xiang Li</a>, 
+<a href="https://scholar.google.com/citations?user=6CIDtZQAAAAJ&hl=zh-CN"style="text-decoration: none;">Jian Yang</a> &#9993;
 
 [**Paper**](https://arxiv.org/pdf/2505.20641) [**Code**](https://github.com/yanzq95/LIAR)
 - Existing vision-based methods perform well on daytime benchmarks but struggle in nighttime scenarios due to limited visibility and challenging lighting conditions. We introduce LIAR, a novel framework that learns illumination-affined representations for nighttime occupacy prediction.
@@ -63,11 +63,11 @@ Yigong Zhang &#9993;,
 Deep Height Decoupling for Precise Vision-based 3D Occupancy Prediction
 
 **Yuan Wu** *, 
-<a href="http://yanzq95.github.io/" style="text-decoration: none; color: inherit;">Zhiqiang Yan</a> * &#9993;, 
-<a href="https://scholar.google.com/citations?user=VogTuQkAAAAJ&hl=zh-CN&oi=sra" style="text-decoration: none; color: inherit;">Zhengxue Wang</a>, 
-<a href="http://implus.github.io/" style="text-decoration: none; color: inherit;">Xiang Li</a>, 
-<a href="https://fpthink.github.io/" style="text-decoration: none; color: inherit;">Le Hui</a>, 
-<a href="https://scholar.google.com/citations?user=6CIDtZQAAAAJ&hl=zh-CN" style="text-decoration: none; color: inherit;">Jian Yang</a> &#9993;
+<a href="http://yanzq95.github.io/" style="text-decoration: none;">Zhiqiang Yan</a> * &#9993;, 
+<a href="https://scholar.google.com/citations?user=VogTuQkAAAAJ&hl=zh-CN&oi=sra" style="text-decoration: none;">Zhengxue Wang</a>, 
+<a href="http://implus.github.io/" style="text-decoration: none;">Xiang Li</a>, 
+<a href="https://fpthink.github.io/" style="text-decoration: none;">Le Hui</a>, 
+<a href="https://scholar.google.com/citations?user=6CIDtZQAAAAJ&hl=zh-CN" style="text-decoration: none;">Jian Yang</a> &#9993;
 
 [**Paper**](https://arxiv.org/pdf/2409.07972?) [**Code**](https://github.com/yanzq95/DHD) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - For the first time, we introduce the explicit height prior into the vision-based 3D occupancy predition task. Owing to the novel deep height decoupling and sampling stratagy, our model achieves state-of-the-art performance even with minimal input cost.
