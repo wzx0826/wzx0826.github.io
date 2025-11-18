@@ -32,8 +32,8 @@ SpatioTemporal Difference Network for Video Depth Super-Resolution (**Oral**)
 <a href="https://scholar.google.com/citations?user=VogTuQkAAAAJ&hl=zh-CN&oi=sra">Zhengxue Wang</a>, 
 <strong>Yuan Wu</strong>, 
 <a href="http://implus.github.io/">Xiang Li</a>,
-<a href="http://yanzq95.github.io/">Zhiqiang Yan  &#9993;, 
-<a href="https://scholar.google.com/citations?user=6CIDtZQAAAAJ&hl=zh-CN">Jian Yang &#9993;
+<a href="http://yanzq95.github.io/">Zhiqiang Yan</a>  &#9993;, 
+<a href="https://scholar.google.com/citations?user=6CIDtZQAAAAJ&hl=zh-CN">Jian Yang</a> &#9993;
 
 [**Paper**](https://arxiv.org/pdf/2508.01259?) [**Code**](https://github.com/yanzq95/STDNet)
 - We propose STDNet, a novel framework for video depth super-resolution. STDNet introduces spatial and temporal difference mechanisms to mitigate long-tailed effects in video depth super-resolution. This design enables precise depth calibration and motion compensation, leading to state-of-the-art performance.
