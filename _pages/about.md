@@ -29,7 +29,7 @@ Hi there, I am Yuan Wu (吴渊). I am currently a second-year Ph.D. student at [
 
 SpatioTemporal Difference Network for Video Depth Super-Resolution (**Oral**)
 
-Zhengxue Wang, **Yuan Wu**, Xiang Li, Zhiqiang Yan  &#9993;, Jian Yang &#9993;
+[Zhengxue Wang](https://scholar.google.com/citations?user=VogTuQkAAAAJ&hl=zh-CN&oi=sra), **Yuan Wu**, Xiang Li, Zhiqiang Yan  &#9993;, Jian Yang &#9993;
 
 [**Paper**](https://arxiv.org/pdf/2508.01259?) [**Code**](https://github.com/yanzq95/STDNet)
 - We propose STDNet, a novel framework for video depth super-resolution. STDNet introduces spatial and temporal difference mechanisms to mitigate long-tailed effects in video depth super-resolution. This design enables precise depth calibration and motion compensation, leading to state-of-the-art performance.
