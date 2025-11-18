@@ -47,10 +47,10 @@ SpatioTemporal Difference Network for Video Depth Super-Resolution (**Oral**)
 See through the Dark: Learning Illumination-affined Representations for Nighttime Occupancy Prediction
 
 **Yuan Wu** *, 
-<a href="http://yanzq95.github.io/"style="text-decoration: none;">Zhiqiang Yan</a> *, 
+<a href="http://yanzq95.github.io/" style="text-decoration: none;">Zhiqiang Yan</a> *, 
 Yigong Zhang &#9993;, 
-<a href="http://implus.github.io/"style="text-decoration: none; ">Xiang Li</a>, 
-<a href="https://scholar.google.com/citations?user=6CIDtZQAAAAJ&hl=zh-CN"style="text-decoration: none;">Jian Yang</a> &#9993;
+<a href="http://implus.github.io/" style="text-decoration: none; ">Xiang Li</a>, 
+<a href="https://scholar.google.com/citations?user=6CIDtZQAAAAJ&hl=zh-CN" style="text-decoration: none;">Jian Yang</a> &#9993;
 
 [**Paper**](https://arxiv.org/pdf/2505.20641) [**Code**](https://github.com/yanzq95/LIAR)
 - Existing vision-based methods perform well on daytime benchmarks but struggle in nighttime scenarios due to limited visibility and challenging lighting conditions. We introduce LIAR, a novel framework that learns illumination-affined representations for nighttime occupacy prediction.
