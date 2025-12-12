@@ -37,13 +37,16 @@ SpatioTemporal Difference Network for Video Depth Super-Resolution (**Oral**)
 
 <div class="paper-links">
   <a href="https://arxiv.org/pdf/2508.01259?" target="_blank">
-    <img src="https://img.shields.io/badge/Paper-PDF-lightgrey?logo=arxiv" />
+    <img src="https://img.shields.io/badge/arXiv-PDF-B31B1B?logo=arxiv&logoColor=white" />
   </a>
   <a href="https://github.com/yanzq95/STDNet" target="_blank">
-    <img src="https://img.shields.io/badge/Code-GitHub-lightgrey?logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-Code-181717?logo=github&logoColor=white" />
   </a>
-
+  <a href="https://github.com/yanzq95/STDNet" target="_blank">
+    <img src="https://img.shields.io/github/stars/yanzq95/STDNet" />
+  </a>
 </div>
+
 - We propose STDNet, a novel framework for video depth super-resolution. STDNet introduces spatial and temporal difference mechanisms to mitigate long-tailed effects in video depth super-resolution. This design enables precise depth calibration and motion compensation, leading to state-of-the-art performance.
 </div>
 </div>
@@ -62,13 +65,16 @@ Yigong Zhang &#9993;,
 
 <div class="paper-links">
   <a href="https://arxiv.org/pdf/2505.20641" target="_blank">
-    <img src="https://img.shields.io/badge/Paper-PDF-lightgrey?logo=arxiv" />
+    <img src="https://img.shields.io/badge/arXiv-PDF-B31B1B?logo=arxiv&logoColor=white" />
   </a>
   <a href="https://github.com/yanzq95/LIAR" target="_blank">
-    <img src="https://img.shields.io/badge/Code-GitHub-lightgrey?logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-Code-181717?logo=github&logoColor=white" />
   </a>
-
+  <a href="https://github.com/yanzq95/LIAR" target="_blank">
+    <img src="https://img.shields.io/github/stars/yanzq95/LIAR" />
+  </a>
 </div>
+
 - Existing vision-based methods perform well on daytime benchmarks but struggle in nighttime scenarios due to limited visibility and challenging lighting conditions. We introduce LIAR, a novel framework that learns illumination-affined representations for nighttime occupacy prediction.
 </div>
 </div>
@@ -87,15 +93,16 @@ Deep Height Decoupling for Precise Vision-based 3D Occupancy Prediction
 
 <div class="paper-links">
   <a href="https://arxiv.org/pdf/2409.07972?" target="_blank">
-    <img src="https://img.shields.io/badge/Paper-PDF-lightgrey?logo=arxiv" />
+    <img src="https://img.shields.io/badge/arXiv-PDF-B31B1B?logo=arxiv&logoColor=white" />
   </a>
   <a href="https://github.com/yanzq95/DHD" target="_blank">
-    <img src="https://img.shields.io/badge/Code-GitHub-lightgrey?logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-Code-181717?logo=github&logoColor=white" />
   </a>
   <a href="https://github.com/yanzq95/DHD" target="_blank">
     <img src="https://img.shields.io/github/stars/yanzq95/DHD" />
   </a>
 </div>
+
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - For the first time, we introduce the explicit height prior into the vision-based 3D occupancy predition task. Owing to the novel deep height decoupling and sampling stratagy, our model achieves state-of-the-art performance even with minimal input cost.
 </div>
