@@ -109,10 +109,16 @@ h1:before, .anchor:before {
 }
 
 .paper-links {
-  margin: 6px 0 6px 0;
+  margin: 6px 0 8px 0;
+}
+
+.paper-links img {
+  height: 20px;
+  vertical-align: middle;
 }
 
 .paper-links a {
   margin-right: 6px;
   text-decoration: none;
 }
+
