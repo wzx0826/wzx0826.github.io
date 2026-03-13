@@ -91,11 +91,11 @@ We introduce DuCos, a novel depth super-resolution framework grounded in Lagrang
 DORNet: A Degradation Oriented and Regularized Network for Blind Depth Super-Resolution (**Oral**)
 
 <strong>Zhengxue Wang</strong> *, 
-<a href="http://yanzq95.github.io/" style="text-decoration: none;">Zhiqiang Yan</a> * &#9993, 
+<a href="http://yanzq95.github.io/" style="text-decoration: none;">Zhiqiang Yan</a> * &#9993;, 
 <a href="https://jspan.github.io/" style="text-decoration: none;">Jinshan Pan</a>, 
 <a href="https://guangweigao.github.io/" style="text-decoration: none;">Guangwei Gao</a>,
 <a href="https://cszn.github.io/" style="text-decoration: none;">Kai Zhang</a>,
-<a href="https://scholar.google.com/citations?user=6CIDtZQAAAAJ&hl=zh-CN" style="text-decoration: none;">Jian Yang</a>  &#9993
+<a href="https://scholar.google.com/citations?user=6CIDtZQAAAAJ&hl=zh-CN" style="text-decoration: none;">Jian Yang</a>  &#9993;
 {% include paper_links.html
   arxiv="https://openaccess.thecvf.com/content/CVPR2025/html/Wang_DORNet_A_Degradation_Oriented_and_Regularized_Network_for_Blind_Depth_CVPR_2025_paper.html"
   github="https://github.com/yanzq95/DORNet"
@@ -115,8 +115,8 @@ Completion as Enhancement: A Degradation-Aware Selective Image Guided Network fo
 <a href="http://yanzq95.github.io/" style="text-decoration: none;">Zhiqiang Yan</a>, 
 <strong>Zhengxue Wang</strong>, 
 <a href="https://scholar.google.com/citations?user=ORn7aZcAAAAJ&hl=zh-CN&oi=sra" style="text-decoration: none;">Kun Wang</a>, 
-<a href="https://sites.google.com/view/junlineu/" style="text-decoration: none;">Jun Li </a>, &#9993
-<a href="https://scholar.google.com/citations?user=6CIDtZQAAAAJ&hl=zh-CN" style="text-decoration: none;">Jian Yang </a> &#9993
+<a href="https://sites.google.com/view/junlineu/" style="text-decoration: none;">Jun Li </a>,  &#9993;
+<a href="https://scholar.google.com/citations?user=6CIDtZQAAAAJ&hl=zh-CN" style="text-decoration: none;">Jian Yang </a>  &#9993;
 {% include paper_links.html
   arxiv="https://openaccess.thecvf.com/content/CVPR2025/html/Yan_Completion_as_Enhancement_A_Degradation-Aware_Selective_Image_Guided_Network_for_CVPR_2025_paper.html"
 %}
