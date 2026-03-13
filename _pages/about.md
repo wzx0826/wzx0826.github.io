@@ -148,7 +148,7 @@ Deep Height Decoupling for Precise Vision-based 3D Occupancy Prediction
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='projects/SGNet_performance.png' alt="sym" style="width: auto; height: auto;"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='projects/SGNet_performance.jpg' alt="sym" style="width: auto; height: auto;"></div></div>
 <div class='paper-box-text' markdown="1">
 
 SGNet: Structure Guided Network via Gradient-Frequency Awareness for Depth Map Super-Resolution
