@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Zhengxue Wang"
-  avatar           : "images/avatar-512x512.png"
+  avatar           : "images/avatar-512x512.jpg"
   bio              : "School of Computer Science and Engineering, Nanjing University of Science and Technology"
   location         : "Nanjing, China"
   employer         :
