@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yuan Wu"
+title                    : "Zhengxue Wang"
 # description              : ""
-repository               : "Rayn-Wu/Rayn-Wu.github.io"
+repository               : "wzx0826/wzx0826.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Yuan Wu"
+  name             : "Zhengxue Wang"
   avatar           : "images/avatar-512x512.png"
   bio              : "School of Computer Science and Engineering, Nanjing University of Science and Technology"
   location         : "Nanjing, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=VoIgY38AAAAJ"
-  email            : "wuyuan@njust.edu.cn"
+  googlescholar    : "https://scholar.google.com/citations?user=VogTuQkAAAAJ&hl"
+  email            : "zxwang@njust.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Rayn-Wu"
+  github           : "wzx0826"
   google_plus      :
   keybase          :
   instagram        :
