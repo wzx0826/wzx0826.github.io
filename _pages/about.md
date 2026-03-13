@@ -195,5 +195,5 @@ LBNet introduces a lightweight bimodal network that integrates a CNN for local f
   
 # 📖 Educations
 - *2023.03 - present*: Ph.D. student, School of Computer Science and Engineering, Nanjing University of Science and Technology
-- *2019.09 - 2022.05*: M.S. degree, College of Automation and College of Artificial Intelligence from the Nanjing University of Posts and Telecommunications
+- *2019.09 - 2022.05*: M.S. student, College of Automation and College of Artificial Intelligence from the Nanjing University of Posts and Telecommunications
 
