@@ -42,13 +42,10 @@ SpatioTemporal Difference Network for Video Depth Super-Resolution (**Oral**)
 </div>
 </div>
 
-# 📝 Publications 
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='projects/AAAI2026_DiCoSeg.png' alt="sym" style="width: auto; height: auto;"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Diffusion-Based Contextual Reconstruction for Point Cloud Segmentation with Limited Annotations
-
 
 <a style="text-decoration: none;">Jiawei Lian</a>,
 <strong>Zhengxue Wang</strong>, 
