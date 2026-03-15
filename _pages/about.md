@@ -42,6 +42,29 @@ SpatioTemporal Difference Network for Video Depth Super-Resolution (**Oral**)
 </div>
 </div>
 
+# 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='projects/AAAI2026_DiCoSeg.png' alt="sym" style="width: auto; height: auto;"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Diffusion-Based Contextual Reconstruction for Point Cloud Segmentation with Limited Annotations
+
+
+<a style="text-decoration: none;">Jiawei Lian</a>,
+<strong>Zhengxue Wang</strong>, 
+<a style="text-decoration: none;">Wentao Qu</a>,
+<a style="text-decoration: none;">Haobo Jiang</a>, 
+<a style="text-decoration: none;">Le Hui</a>, 
+<a href="https://scholar.google.com/citations?user=6CIDtZQAAAAJ&hl=zh-CN" style="text-decoration: none;">Jian Yang</a>
+
+{% include paper_links.html
+  arxiv=""
+  github=""
+%}
+
+- We introduce DiCoSeg, the first diffusion-based framework for 3D point cloud semantic segmentation under limited annotation settings. DiCoSeg reconstructs contextual semantics from noisy inputs and dynamically aggregates both local and global spatial structures, thereby achieving stronger contextual awareness and robustness.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='projects/NIPS25_data_case.png' alt="sym" style="width: auto; height: auto;"></div></div>
 <div class='paper-box-text' markdown="1">
