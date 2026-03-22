@@ -22,6 +22,23 @@ Hi, I'm Zhengxue Wang (王正学). I'm currently a Ph.D. student at PCALab, in t
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV 2026</div><img src='projects/IJCV_SPFNet.png' alt="sym" style="width: auto; height: auto;"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Scene Prior Filtering for Depth Super-Resolution
+
+<strong>Zhengxue Wang</strong>, 
+<a href="http://yanzq95.github.io/" style="text-decoration: none;">Zhiqiang Yan</a>,
+<a href="https://faculty.ucmerced.edu/mhyang/" style="text-decoration: none;">Ming-Hsuan Yang</a>,
+<a href="https://jspan.github.io/" style="text-decoration: none;">Jinshan Pan</a>, 
+<a href="https://guangweigao.github.io/" style="text-decoration: none;">Guangwei Gao</a>  &#9993;,
+<a href="https://tyshiwo.github.io/" style="text-decoration: none;">Ying Tai</a>,
+<a href="https://scholar.google.com/citations?user=6CIDtZQAAAAJ&hl=zh-CN" style="text-decoration: none;">Jian Yang</a> &#9993;
+
+- To address the issues of texture interference and edge inaccuracy in GDSR, for the first time, SPFNet introduces the priors surface normal and semantic map from large-scale models. As a result, SPFNet achieves state-of-the-art performance.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='projects/AAAI_STDNet.png' alt="sym" style="width: auto; height: auto;"></div></div>
 <div class='paper-box-text' markdown="1">
 
