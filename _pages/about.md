@@ -54,7 +54,9 @@ Diffusion-Based Contextual Reconstruction for Point Cloud Segmentation with Limi
 <a style="text-decoration: none;">Le Hui</a>, 
 <a href="https://scholar.google.com/citations?user=6CIDtZQAAAAJ&hl=zh-CN" style="text-decoration: none;">Jian Yang</a>
 
-
+{% include paper_links.html
+  arxiv="https://ojs.aaai.org/index.php/AAAI/article/view/37610"
+%}
 
 - We introduce DiCoSeg, the first diffusion-based framework for 3D point cloud semantic segmentation under limited annotation settings. DiCoSeg reconstructs contextual semantics from noisy inputs and dynamically aggregates both local and global spatial structures, thereby achieving stronger contextual awareness and robustness.
 </div>
