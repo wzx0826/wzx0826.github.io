@@ -35,6 +35,10 @@ Scene Prior Filtering for Depth Super-Resolution
 <a href="https://tyshiwo.github.io/" style="text-decoration: none;">Ying Tai</a>,
 <a href="https://scholar.google.com/citations?user=6CIDtZQAAAAJ&hl=zh-CN" style="text-decoration: none;">Jian Yang</a> &#9993;
 
+{% include paper_links.html
+  github="https://yanzq95.github.io/projectpage/SPFNet/index.html"
+%}
+
 - To address the issues of texture interference and edge inaccuracy in GDSR, for the first time, SPFNet introduces the priors surface normal and semantic map from large-scale models. As a result, SPFNet achieves state-of-the-art performance.
 </div>
 </div>
@@ -52,7 +56,7 @@ SpatioTemporal Difference Network for Video Depth Super-Resolution (**Oral**)
 
 {% include paper_links.html
   arxiv="https://arxiv.org/pdf/2508.01259?"
-  github="yanzq95/STDNet"
+  github="https://github.com/yanzq95/STDNet"
 %}
 
 - We propose STDNet, a novel framework for video depth super-resolution. STDNet introduces spatial and temporal difference mechanisms to mitigate long-tailed effects in video depth super-resolution. This design enables precise depth calibration and motion compensation, leading to state-of-the-art performance.
