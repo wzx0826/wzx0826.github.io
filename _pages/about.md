@@ -27,8 +27,8 @@ Hi, I'm Zhengxue Wang (王正学). I'm currently a Ph.D. student at PCALab, in t
 
 Scene Prior Filtering for Depth Super-Resolution
 
-<strong>Zhengxue Wang</strong>, 
-<a href="http://yanzq95.github.io/" style="text-decoration: none;">Zhiqiang Yan</a>,
+<strong>Zhengxue Wang</strong> *, 
+<a href="http://yanzq95.github.io/" style="text-decoration: none;">Zhiqiang Yan *</a>,
 <a href="https://faculty.ucmerced.edu/mhyang/" style="text-decoration: none;">Ming-Hsuan Yang</a>,
 <a href="https://jspan.github.io/" style="text-decoration: none;">Jinshan Pan</a>, 
 <a href="https://guangweigao.github.io/" style="text-decoration: none;">Guangwei Gao</a>  &#9993;,
