@@ -36,6 +36,7 @@ Scene Prior Filtering for Depth Super-Resolution
 <a href="https://scholar.google.com/citations?user=6CIDtZQAAAAJ&hl=zh-CN" style="text-decoration: none;">Jian Yang</a> &#9993;
 
 {% include paper_links.html
+  arxiv="https://arxiv.org/pdf/2402.13876"
   github="https://yanzq95.github.io/projectpage/SPFNet/index.html"
 %}
 
