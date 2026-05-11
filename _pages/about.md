@@ -37,7 +37,7 @@ Scene Prior Filtering for Depth Super-Resolution
 
 {% include paper_links.html
   arxiv="https://arxiv.org/pdf/2402.13876"
-  github="https://yanzq95.github.io/projectpage/SPFNet/index.html"
+  github="yanzq95/SPFNet"
 %}
 
 - To address the issues of texture interference and edge inaccuracy in GDSR, for the first time, SPFNet introduces the priors surface normal and semantic map from large-scale models. As a result, SPFNet achieves state-of-the-art performance.
@@ -57,7 +57,7 @@ SpatioTemporal Difference Network for Video Depth Super-Resolution (**Oral**)
 
 {% include paper_links.html
   arxiv="https://arxiv.org/pdf/2508.01259?"
-  github="https://github.com/yanzq95/STDNet"
+  github="yanzq95/STDNet"
 %}
 
 - We propose STDNet, a novel framework for video depth super-resolution. STDNet introduces spatial and temporal difference mechanisms to mitigate long-tailed effects in video depth super-resolution. This design enables precise depth calibration and motion compensation, leading to state-of-the-art performance.
@@ -116,7 +116,7 @@ DuCos: Duality Constrained Depth Super-Resolution via Foundation Model
 <a href="https://www.comp.nus.edu.sg/~leegh/" style="text-decoration: none;">Gim Hee Lee</a>
 {% include paper_links.html
   arxiv="https://openaccess.thecvf.com/content/ICCV2025/html/Yan_DuCos_Duality_Constrained_Depth_Super-Resolution_via_Foundation_Model_ICCV_2025_paper.html"
-  github="https://github.com/yanzq95/DuCos"
+  github="yanzq95/DuCos"
 %}
 We introduce DuCos, a novel depth super-resolution framework grounded in Lagrangian duality theory, 
 			  offering a flexible integration of multiple constraints and reconstruction objectives to enhance accuracy and robustness. 
@@ -139,7 +139,7 @@ DORNet: A Degradation Oriented and Regularized Network for Blind Depth Super-Res
 <a href="https://scholar.google.com/citations?user=6CIDtZQAAAAJ&hl=zh-CN" style="text-decoration: none;">Jian Yang</a>  &#9993;
 {% include paper_links.html
   arxiv="https://openaccess.thecvf.com/content/CVPR2025/html/Wang_DORNet_A_Degradation_Oriented_and_Regularized_Network_for_Blind_Depth_CVPR_2025_paper.html"
-  github="https://github.com/yanzq95/DORNet"
+  github="yanzq95/DORNet"
 %}
 For the first time, we introduce a Degradation Oriented and Regularized Network (DORNet) designed for real-world depth super-resolution, addressing the challenges posed by unconventional and unknown degradations. 
 				  The core concept involves estimating implicit degradation representations to achieve effective RGB-D fusion. This degradation learning process is self-supervised.
@@ -200,7 +200,7 @@ SGNet: Structure Guided Network via Gradient-Frequency Awareness for Depth Map S
 
 {% include paper_links.html
   arxiv="https://arxiv.org/pdf/2312.05799v3.pdf"
-  github="https://github.com/yanzq95/SGNet"
+  github="yanzq95/SGNet"
 %}
 SGNet introduces a novel perspective that exploits the gradient and frequency domains for the structure enhancement of DSR task,
 				  surpassing the five state-of-the-art methods by 16% (RGB-D-D), 24% (Middlebury), 21% (Lu) and 15% (NYU-v2) in average.
@@ -222,7 +222,7 @@ Lightweight Bimodal Network for Single-Image Super-Resolution via Symmetric CNN 
 
 {% include paper_links.html
   arxiv="https://arxiv.org/abs/2204.13286"
-  github="https://github.com/wzx0826/LBNet"
+  github="wzx0826/LBNet"
 %}
 LBNet introduces a lightweight bimodal network that integrates a CNN for local feature extraction with a recursive Transformer for global dependency modeling. It reduces computational and memory costs while more effectively enhancing texture details in single-image super-resolution.
 </div>
