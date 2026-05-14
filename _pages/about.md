@@ -231,7 +231,7 @@ LBNet introduces a lightweight bimodal network that integrates a CNN for local f
 
 
 # ✒️ Academic Service
-- Conference reviewer: CVPR, NeurIPS, ICCV, ECCV, AAAI, IJCAI, BMVC, etc.
+- Conference reviewer: CVPR, NeurIPS, ICCV, ECCV, AAAI, IJCAI, ACM MM, BMVC, etc.
 - Journal reviewer: TIP, TNNLS, PR, etc.
   
 # 📖 Educations
